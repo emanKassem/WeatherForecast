@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="humidity">Humidity %s%%</string>
+    <string name="visibility">Visibility %s km</string>
+    <string name="wind_speed">SW %s m/s</string>
+    <string name="pressure">Air Pressure %s hPa</string>
+    <string name="forecast">Forecast</string>
+    <string name="history">History</string>
+    <string name="image_saved_to_files">Image saved. Check your history.</string>
+    <string name="location_permission_required">Location permission required</string>
+</resources>

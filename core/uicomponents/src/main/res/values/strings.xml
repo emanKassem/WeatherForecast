@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">uicomponents</string>
+    <string name="permissions_rationale_title">Permission Needed!</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="open_settings">Open settings</string>
+</resources>

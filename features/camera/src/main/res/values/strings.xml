@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherForcast</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="camera_permission_required">Camera permission required</string>
+</resources>
