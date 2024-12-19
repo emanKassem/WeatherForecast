@@ -2,6 +2,12 @@
 
 [🚧] sample android weather app written entirely in Kotlin and jetpack compose. The app is fully functional and following the best practices.
 
+
+
+https://github.com/user-attachments/assets/72c29116-db6b-47c7-a2c9-dfc18e494607
+
+
+
 ## Architecture
 
 This project is leveraging hybrid model architecture(by layer + by feature)
